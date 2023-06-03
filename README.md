@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Papisetti-Sushma
 - 👀 I’m interested in leaning languages and projects
-- 🌱 I’m currently learning phyton
+- 🌱 I’m perfect at c++ ,pythhon,html,css
 - 💞️ I’m looking to collaborate on mini project 
 - 📫 How to reach me ...
 
