@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Papisetti-Sushma
 - 👀 I’m interested in leaning languages and projects
-- 🌱 I’m perfect at c++ ,pythhon,html,css
-- 💞️ I’m looking to collaborate on mini project 
+- 🌱 I’m perfect at c++ ,html,css
+- 💞️
 - 📫 How to reach me ...
 
 <!---
